@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tunishi
 - 👀 I’m computer engineering student 
-- 🌱 I’m currently learning C
+- 😎 I’m currently learning Python,Flutter
 - 📫 How to reach me @tunishii on ig
 
 <!---
