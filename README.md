@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=160&section=header&text=Hasan%20Tuna%20Yayla&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Working%20with%20Optistamp&descAlignY=62&descSize=18" alt="header banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,35:7f1d1d,70:b91c1c,100:ef4444&height=170&section=header&text=Hasan%20Tuna%20Yayla&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Working%20with%20Optistamp&descAlignY=62&descSize=18" alt="header banner">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1800&color=0EA5E9&center=true&vCenter=true&width=580&lines=Working+with+Optistamp;Embedded+Systems+%26+Real-Time+Control;Computer+Engineering+%40+Konya+Technical+University;Heading+Toward+Defense+%26+Aerospace" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1800&color=EF4444&center=true&vCenter=true&width=580&lines=Working+with+Optistamp;Embedded+Systems+%26+Real-Time+Control;Computer+Engineering+%40+Konya+Technical+University;Heading+Toward+Defense+%26+Aerospace" alt="Typing SVG">
 </p>
 
 <p align="center">
