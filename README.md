@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=160&section=header&text=Hasan%20Tuna%20Yayla&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%40%20Optistamp&descAlignY=62&descSize=18" alt="header banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=160&section=header&text=Hasan%20Tuna%20Yayla&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Working%20with%20Optistamp&descAlignY=62&descSize=18" alt="header banner">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1800&color=0EA5E9&center=true&vCenter=true&width=580&lines=Software+Engineer+%40+Optistamp;Embedded+Systems+%26+Real-Time+Control;Computer+Engineering+%40+Konya+Technical+University;Heading+Toward+Defense+%26+Aerospace" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1800&color=0EA5E9&center=true&vCenter=true&width=580&lines=Working+with+Optistamp;Embedded+Systems+%26+Real-Time+Control;Computer+Engineering+%40+Konya+Technical+University;Heading+Toward+Defense+%26+Aerospace" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Laser Target-Tracking Turret](LINK)** | Two-axis turret that finds and tracks a target. HSV/CSRT vision tracking with a PID loop driving servos over serial, plus a separate PC-free ESP32 variant that scans with an ultrasonic distance gradient and exposes a WiFi control dashboard. | `Python` `OpenCV` `Arduino` `ESP32` `PlatformIO` |
-| **[Sirius UAV Ground Control Station](LINK)** | Desktop application handling the real-time data link between a combat UAV and the ground station. Placed **11th in Turkey** at TEKNOFEST 2025. | `Python` `PyQt5` |
-| **[Material Strength Analyzer](LINK)** | Fits nonlinear hardening models (Hollomon, Ludwik, Voce, Swift) to experimental tensile data and derives engineering parameters. | `Python` `SciPy` `NumPy` `Matplotlib` |
+| **Laser Target-Tracking Turret** | Two-axis turret that finds and tracks a target. HSV/CSRT vision tracking with a PID loop driving servos over serial, plus a separate PC-free ESP32 variant that scans with an ultrasonic distance gradient and exposes a WiFi control dashboard. | `Python` `OpenCV` `Arduino` `ESP32` `PlatformIO` |
+| **Sirius UAV Ground Control Station** | Desktop application handling the real-time data link between a combat UAV and the ground station. Placed **11th in Turkey** at TEKNOFEST 2025. | `Python` `PyQt5` |
+| **Material Strength Analyzer** | Fits nonlinear hardening models (Hollomon, Ludwik, Voce, Swift) to experimental tensile data and derives engineering parameters. | `Python` `SciPy` `NumPy` `Matplotlib` |
 
 ---
 
