@@ -1,9 +1,62 @@
-- 👋 Hi, I’m @tunishi
-- 👀 I’m computer engineering student 
-- 😎 I’m currently learning Python,Flutter
-- 📫 How to reach me @tunishii on ig
+<h1 align="center">Hasan Tuna Yayla</h1>
 
-<!---
-tunishi/tunishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1800&color=58A6FF&center=true&vCenter=true&width=580&lines=Software+Engineer+%40+Optistamp;Embedded+Systems+%26+Real-Time+Control;Computer+Engineering+%40+Konya+Technical+University;Heading+Toward+Defense+%26+Aerospace" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tunishi1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hasantunayayla11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+### What I'm doing
+
+- 🔧 Building **PyQt6 material characterization software** for FEA workflows at Optistamp — anisotropic yield surfaces, hardening models, forming limit curves
+- 🛫 Just wrapped up a summer internship at **ASELSAN** (Avionics & Guidance Systems), Jul–Aug 2026
+- 🎯 Working on a **laser target-tracking turret** — OpenCV/PID on the PC side, standalone ESP32 firmware on the other
+- 🎓 Final-year Computer Engineering @ Konya Technical University
+- 🛩️ Interested in avionics, guidance systems and flight simulation
+
+---
+
+### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Laser Target-Tracking Turret](LINK)** | Two-axis turret that finds and tracks a target. HSV/CSRT vision tracking with a PID loop driving servos over serial, plus a separate PC-free ESP32 variant that scans with an ultrasonic distance gradient and exposes a WiFi control dashboard. | `Python` `OpenCV` `Arduino` `ESP32` `PlatformIO` |
+| **[Sirius UAV Ground Control Station](LINK)** | Desktop application handling the real-time data link between a combat UAV and the ground station. Placed **11th in Turkey** at TEKNOFEST 2025. | `Python` `PyQt5` |
+| **[Material Strength Analyzer](LINK)** | Fits nonlinear hardening models (Hollomon, Ludwik, Voce, Swift) to experimental tensile data and derives engineering parameters. | `Python` `SciPy` `NumPy` `Matplotlib` |
+| **[Flight & Guidance Simulation](LINK)** | Graduation project — 3D flight dynamics and missile intercept guidance simulation. | `Unity` `C#` |
+
+---
+
+### Tech
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tunishi&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunishi&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+</div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tunishi/tunishi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tunishi/tunishi/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/tunishi/tunishi/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
