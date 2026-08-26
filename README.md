@@ -17,7 +17,7 @@
 
 - 🔧 Building **PyQt6 material characterization software** for FEA workflows at Optistamp — anisotropic yield surfaces, hardening models, forming limit curves
 - 🛫 Completed a summer internship at **ASELSAN** (Avionics & Guidance Systems), Jul–Aug 2026
-- 🎯 Working on a **laser target-tracking turret** — OpenCV/PID on the PC side, standalone ESP32 firmware on the other
+- 🎯 Working on a **laser target-tracking turret** — OpenCV/PID on the PC side, standalone ESP32 arm with a WiFi radar dashboard + Android companion app on the other
 - 🎓 Final-year Computer Engineering @ Konya Technical University
 - 🛩️ Interested in avionics and guidance systems
 
@@ -27,7 +27,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Laser Target-Tracking Turret** | Two-axis turret that finds and tracks a target. HSV/CSRT vision tracking with a PID loop driving servos over serial, plus a separate PC-free ESP32 variant that scans with an ultrasonic distance gradient and exposes a WiFi control dashboard. | `Python` `OpenCV` `Arduino` `ESP32` `PlatformIO` |
+| **Laser Target-Tracking Turret** | Two-axis turret that finds and tracks a target. HSV/CSRT vision tracking with a PID loop driving servos over serial from a PC, plus a separate PC-free ESP32 variant that scans with an ultrasonic distance gradient, hosts a live WiFi radar dashboard, and pairs with a small Android app. | `Python` `OpenCV` `Arduino` `ESP32` `PlatformIO` `Android` |
 | **Sirius UAV Ground Control Station** | Desktop application handling the real-time data link between a combat UAV and the ground station. Placed **11th in Turkey** at TEKNOFEST 2025. | `Python` `PyQt5` |
 | **Material Strength Analyzer** | Fits nonlinear hardening models (Hollomon, Ludwik, Voce, Swift) to experimental tensile data and derives engineering parameters. | `Python` `SciPy` `NumPy` `Matplotlib` |
 
